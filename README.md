@@ -50,9 +50,9 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Yefferson Nunez** - *Pruebas unitarias* - [villanuevand](https://github.com/villanuevand)
+* **Hector Puentes** - *Pruebas unitarias* - [villanuevand](https://github.com/hectop4)
 * **Santiago Arias** - *Interfaz grafica de usuario* - [fulanitodetal](#fulanito-de-tal)
-* **Hector Puentes** - *Trabajo inicial*
+* **Yefferson Nunez** - *Trabajo inicial*
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/CRC_lab/contributors) quíenes han participado en este proyecto. 
 
