@@ -5,9 +5,8 @@ Este algortimo no determina la ubicacion del error, unicamente permite corrobora
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+El  cyclic redundancy check se basa en el uso de un generador que crea una sere de bits, esta se divide en una trama un mensaje agregandole r cantidad de 0 a la trama, donde r es la longitud del generador.
+El residuo entre el generador y la trama se agrega al final de la trama, y este sera el mensaje a enviar, luego el receptor divide el mensaje recibido entre un generador del mismo valor, si el residuo de esta division es 0, el mensaje se envio correctamente, de lo contrario se determina que hubo un error en el mensaje.
 
 
 ### Pre-requisitos 📋
@@ -20,7 +19,7 @@ pip install -r requirements.txt
 
 ### Inicializacion 🔧
 
-_Para poder ejecutar este proyecto se recomienda tener una versin reciente de python3, y usar el comando: _
+_Para poder ejecutar este proyecto se recomienda tener una versin reciente de python3, y usar el comando:_
 
 
 ```
