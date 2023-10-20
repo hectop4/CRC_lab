@@ -46,6 +46,8 @@ def division_xor(divisor, dividendo):
     #print("Mensaje Original",msn)
     #print("Mensaje Enviado",msn_alter)
     return msn
+
+
 def pedir_datos():
     trama = bin(int(input("Ingrese el mensaje que desee enviar "), 2))
     generator = "0b101"
