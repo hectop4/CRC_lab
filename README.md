@@ -50,7 +50,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Hector Puentes** - *Trabajo Inicial* - [Hectop4](https://github.com/hectop4)
+* **Hector Puentes** - *Trabajo Inicial* - [HectorP4](https://github.com/hectop4)
 * **Yefferson Nunez** - *Pruebas Unitarias* - [Yefferson326](https://github.com/yefferson326)
 * **Santiago Arias** - *Interfaz Grafica de Usuario*
 
