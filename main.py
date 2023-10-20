@@ -96,6 +96,10 @@ def main():
     generator="0b101"
     mensaje=pedir_datos(generator)
     mensaje_alter=alterar_mensaje(mensaje)
+   
+    
+    
+  
     print("Mensaje Enviado",mensaje)
     print("Mensaje Alterado",mensaje_alter)
     recepcion_mensaje(generator,mensaje_alter )
