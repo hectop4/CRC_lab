@@ -93,10 +93,15 @@ def pedir_datos(generador):
         # print("El mensaje enviado es: ", sent)
         #print("Mensaje Enviado",mensaje)
 def main():
+    ventana=tk.Tk()
+    ventana.geometry("600x600")
+    etiqueta = tk.Label(ventana,text = "Hola mundo")
+    etiqueta.pack()
+    
     generator="0b101"
     mensaje=pedir_datos(generator)
     mensaje_alter=alterar_mensaje(mensaje)
-   
+    ventana.mainloop()
     
     
   
